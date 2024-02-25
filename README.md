@@ -5,6 +5,7 @@ Problem Statement - AtliQ Grands owns multiple five-star hotels across India. Th
 Looking into this suitation they need insights from their historical data to make necessary decisions to increase profit and market share.
 
 Few of terms used in this Dashborad are as follows:-
+
 Revpar - Revenue per available room
 
 ADR - Average Daily rate
